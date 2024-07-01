@@ -1,0 +1,12 @@
+Anklet,50
+Anklet,50
+Bracelet,44
+Bracelet,45
+Earrings,50
+Earrings,50
+Necklace,50
+Necklace,50
+Ring,50
+Ring,50
+Watch,50
+Watch,50

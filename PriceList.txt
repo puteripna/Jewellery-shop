@@ -1,0 +1,10 @@
+{
+    "Bracelet" : {"price": "15"},
+    "Necklace" : {"price": "25"},
+    "Ring" : {"price": "8"},
+    "Earrings" : {"price": "10"},
+    "Watch" : {"price": "35"},
+    "Anklet" : {"price": "15"}
+}
+
+
